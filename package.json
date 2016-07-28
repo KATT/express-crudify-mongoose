@@ -37,7 +37,7 @@
     "babel-register": "^6.9.0",
     "chai": "^3.5.0",
     "chai-datetime": "^1.4.1",
-    "coveralls": "^2.11.9",
+    "coveralls": "^2.11.12",
     "eslint": "^3.0.0",
     "eslint-plugin-react": "^5.1.1",
     "isparta": "^4.0.0",
