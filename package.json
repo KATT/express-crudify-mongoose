@@ -48,7 +48,7 @@
     "sinon": "^1.17.4",
     "sinon-chai": "^2.8.0",
     "supertest": "^1.2.0",
-    "supertest-as-promised": "^3.1.0"
+    "supertest-as-promised": "^4.0.0"
   },
   "dependencies": {
     "bluebird": "^3.4.0",
